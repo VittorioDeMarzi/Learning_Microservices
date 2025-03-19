@@ -18,9 +18,13 @@ You can reuse these images instead of creating and pushing new container images
 #### Currency Exchange Service
 - http://localhost:8000/currency-exchange/from/USD/to/INR
 
+- http://34.116.132.115:8000/currency-exchange/from/USD/to/INR
+
+
 #### Currency Conversion Service
 - http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
 
+- http://34.118.87.204:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
 
 #### Commands
 ```
